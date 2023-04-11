@@ -54,7 +54,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: var(--fonte3);
+    font-family: var(--fonte1);
     font-size: 3.5vw;
 }
 
@@ -84,13 +84,15 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
+    background-image: url('../imagens/c.jpeg');
+    background-position: left left;
+    background-size: cover;
     
 }
 
 section#img02 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../imagens/d.jpeg');
+    background-size: cover;
     
 }
 
