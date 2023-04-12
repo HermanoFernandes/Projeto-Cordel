@@ -101,6 +101,8 @@ section#img02 {
 
 section#img03 {
     background-image: url('../imagens/e.jpeg');
+    background-size: cover;
+    background-position: right;
 }
 
 footer {
