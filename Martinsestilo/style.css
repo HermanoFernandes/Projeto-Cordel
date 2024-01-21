@@ -77,4 +77,5 @@ section.imagem {
 section#img01 {
     background-image: url('../imagens/l.jpeg');
     background-position: right center;
+    background-size: cover;
 }
