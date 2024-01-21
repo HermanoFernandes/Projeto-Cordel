@@ -27,7 +27,7 @@ html, body {
 }
 
 header {
-    background-color: #742e74;
+    background-color: #8b008b;
     color: #ffffff; 
     text-align: center;
 }
@@ -53,8 +53,8 @@ section {
 }
 
 section.normal {
-    background-color: blue;
-    color: aqua;
+    background-color: #800080;
+    color: rgb(255, 255, 255);
 }
 
 section > p {
@@ -70,6 +70,8 @@ section.imagem > p {
 section.imagem {
     background-color: rgb(39, 27, 27);
     color: rgb(255, 255, 255);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
