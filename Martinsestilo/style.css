@@ -37,6 +37,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     text-align: center;
+    color: white;
    
 }
 
@@ -93,3 +94,18 @@ section#img03 {
     background-size: cover;
 }
 
+footer {
+    color: white;
+}
+
+section#img04 {
+    background-image: url('../imagens/i.jpeg');
+    background-position: right center;
+    background-size: cover;
+}
+
+section#img003 {
+    background-image: url('../imagens/j.jpeg');
+    background-position: right center;
+    background-size: cover;
+}
