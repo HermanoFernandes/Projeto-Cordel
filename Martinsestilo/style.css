@@ -30,6 +30,7 @@ header {
     background-color: #ad47ac;
     color: #ffffff;
     text-align: center;
+    background-image: url(../imagens/13.jpeg);
     
 }
 
@@ -90,5 +91,6 @@ section#img03 {
     background-image: url('../imagens/n.jpeg');
     background-position: right center;
     background-size: cover;
+    background-position: center left;
 }
-}
+
