@@ -96,7 +96,6 @@ section#img03 {
 
 footer {
     color: white;
-    text-align: center;
 }
 
 section#img04 {
@@ -105,6 +104,8 @@ section#img04 {
     background-size: cover;
 }
 
-img {
-    background-position: left center;
+section#img003 {
+    background-image: url('../imagens/i.jpeg');
+    background-position: right center;
+    background-size: cover;
 }
