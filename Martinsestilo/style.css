@@ -28,7 +28,7 @@ html, body {
 
 header {
     background-color: #ad47ac;
-    color: #851d86;
+    color: #ffffff;
     text-align: center;
     
 }
@@ -65,12 +65,12 @@ section > p {
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: #815881;
+    background-color: #8158811f;
 }
 
 section.imagem {
     background-color: rgb(39, 27, 27);
-    color: magenta;
+    color: rgb(255, 255, 255);
 }
 
 
