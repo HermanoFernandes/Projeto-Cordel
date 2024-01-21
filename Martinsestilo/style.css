@@ -79,3 +79,9 @@ section#img01 {
     background-position: right center;
     background-size: cover;
 }
+
+section#img02 {
+    background-image: url('../imagens/k.jpeg');
+    background-position: right center;
+    background-size: cover;
+}
