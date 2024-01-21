@@ -105,8 +105,6 @@ section#img04 {
     background-size: cover;
 }
 
-section#img003 {
-    background-image: url('../imagens/j.jpeg');
-    background-position: right center;
-    background-size: cover;
+img {
+    background-position: left center;
 }

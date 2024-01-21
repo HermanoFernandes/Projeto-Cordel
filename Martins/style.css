@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+h1 > section > p {
+    color: rgb(136, 3, 148);
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    text-align: center;
+}
+
