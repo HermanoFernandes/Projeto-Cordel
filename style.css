@@ -27,14 +27,23 @@ a.external::after {
     padding: 0px;
 }
 
+
+
 header {
     background-color: var(--cor1);
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
     text-shadow: 2px 2px 0px #00000046;
-    background-repeat: no-repeat;
+
     
+}
+
+header > img {
+    text-align: center;
+    padding-right: 290px;
+    display: inline-block;
+    background-position: right;
 }
 
 header > h1 {
