@@ -33,7 +33,7 @@ header {
     background-color: var(--cor1);
     min-height: 150px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 15px;
     text-shadow: 2px 2px 0px #00000046;
 
     
@@ -42,8 +42,10 @@ header {
 header > img {
     text-align: center;
     padding-right: 290px;
+    padding-top: ;
     display: inline-block;
     background-position: right;
+    margin: auto;
 }
 
 header > h1 {
@@ -51,8 +53,9 @@ header > h1 {
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-shadow: 2px 2px 0px black;
+    padding-bottom: 10px;
 
 }
 
