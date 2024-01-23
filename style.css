@@ -46,6 +46,8 @@ header > img {
     display: inline-block;
     background-position: right;
     margin: auto;
+    width: 340px;
+    height: 200px;
 }
 
 header > h1 {
