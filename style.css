@@ -16,57 +16,57 @@
 
 
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     font-family: 'Courier New', Courier, monospace;
 }
 
 
 header {
 
-    background-image: linear-gradient(black,pink);
+    background-image: linear-gradient(#71276f,#d371ce);
     min-height: 150px;
     padding-top: 40px;
     text-align: center;
 }
 
 header > h1 {
-    color: wheat;
+    color: rgb(255, 255, 255);
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 20px;
     font-size: 3em;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 2px 2px 0px rgb(0, 0, 0);
 }
 
 header > p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.2em;
-    color: blueviolet;
+    color: rgb(255, 255, 255);
     max-width: 500px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    text-shadow: 2px 2px 0px rgb(0, 0, 0);
+    text-shadow: 3px 3px 0px rgb(0, 0, 0);
 }
 
 
 nav {
-    background-color: bisque;
+    background-color:#c960c7;
     padding: 10px;
-    box-shadow: 0px 7px 7px black;
+    box-shadow: 0px 5px 5px black;
 }
 
 nav > a {
     transition animation-duration: 0.5px;
     border-radius: 5px;
-    color: rgb(0, 0, 0);
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
+    color: white;
 }
 
 nav > a:hover {
-    background-color: aqua;
-    color: blue;
+    background-color: #420043;
+    color: rgb(255, 255, 255);
 }
     
 
@@ -75,19 +75,20 @@ main {
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     padding: 20px;
-    background-color: rgb(126, 103, 103);
+    background-color: rgb(255, 255, 255);
     box-shadow: 0px 0px 10px black;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
 
 main h1 {
-    color: blue;
+    color: rgb(0, 0, 0);
     font-family: 'Courier New', Courier, monospace;
     font-weight: normal;
     font-size: 1.8em;
+    text-align: center;
 }
 
 main img {
@@ -99,8 +100,9 @@ main h2 {
     font-family: 'Courier New', Courier, monospace;
     color: black;
     font-size: 1.3em;
-    background-image: linear-gradient(to right, pink, black);
+    background-image: linear-gradient(to right, #ffd7ff, #dda9dd);
     text-indent: 8px;
+    text-align: center;
 }
 
 main p {
@@ -125,7 +127,7 @@ main img.pequena {
 
 footer {
     background-color: black;
-    color: wheat;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
@@ -133,7 +135,7 @@ footer {
 
 
 div.video {
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 58%;
@@ -150,18 +152,19 @@ div.video > iframe {
 
 
 aside {
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 
 aside > h3 {
-    background-color: blueviolet;
-    color: lawngreen;
+    background-color: rgb(55, 0, 107);
+    color: rgb(255, 255, 255);
     padding: 10px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
+    text-align: center;
 }
 
 aside > ul {
