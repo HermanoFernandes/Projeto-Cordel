@@ -27,13 +27,11 @@ header{
     align-items: center;
 }
 header h1{
-    padding-bottom: 1300px;
-    -webkit-text-stroke: 2px #7a7676;
     text-align: center;
     font-style: italic;
     font-size: 5rem;
-    font-weight: 900;
-    color: #ffffff;
+    font-weight: 500;
+    color: #914f3b;
 }
 .gallery-container{
     display: flex;
